@@ -1,0 +1,9 @@
+C:\Users\micha\source\repos\majcher_rynski_projekt\majcher_rynski_projekt\bin\Debug\majcher_rynski_projekt.exe.config
+C:\Users\micha\source\repos\majcher_rynski_projekt\majcher_rynski_projekt\bin\Debug\majcher_rynski_projekt.exe
+C:\Users\micha\source\repos\majcher_rynski_projekt\majcher_rynski_projekt\bin\Debug\majcher_rynski_projekt.pdb
+C:\Users\micha\source\repos\majcher_rynski_projekt\majcher_rynski_projekt\obj\Debug\majcher_rynski_projekt.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\majcher_rynski_projekt\majcher_rynski_projekt\obj\Debug\majcher_rynski_projekt.Form1.resources
+C:\Users\micha\source\repos\majcher_rynski_projekt\majcher_rynski_projekt\obj\Debug\majcher_rynski_projekt.Properties.Resources.resources
+C:\Users\micha\source\repos\majcher_rynski_projekt\majcher_rynski_projekt\obj\Debug\majcher_rynski_projekt.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\majcher_rynski_projekt\majcher_rynski_projekt\obj\Debug\majcher_rynski_projekt.exe
+C:\Users\micha\source\repos\majcher_rynski_projekt\majcher_rynski_projekt\obj\Debug\majcher_rynski_projekt.pdb
